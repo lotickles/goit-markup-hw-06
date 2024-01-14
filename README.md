@@ -1,1 +1,2 @@
-# goit-markup-hw-03
+# goit-markup-hw-06
+https://lotickles.github.io/goit-markup-hw-06/
